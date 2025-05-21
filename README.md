@@ -1,1 +1,1 @@
-# inventory-backend
+# inventory.backend
